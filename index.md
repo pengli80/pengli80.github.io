@@ -11,6 +11,7 @@ Peking University*
 * 1998 - 2002 BS, Computer Science, Harbin Institute of China
 
 ## Experiences
+* 2020.09 - Present, Co-founder and CEO, {Hangzhou Aisketcher Co. Ltd}(http://www.miaohui.art)
 * 2019.08 - Present, Researcher, Advanced Institute of Information Technology, Peking University
 * 2017.01 - 2019.07, Co-founder and CEO, Beijing Jouletek Co. Ltd
 * 2014.11 - 2016.12, Researcher, Department of Automotive Engineering, Tsinghua Univeristy
@@ -22,11 +23,10 @@ Peking University*
 1. Wei Zuo, **Peng Li**, Deming Chen, Pouchet Louis-Noel, Shunan Zhong, and Jason Cong.
 Improving polyhedral code generation for high-level synthesis. In Proceedings of the Annual
 International Conference on Hardware/Software Codesign and System Synthesis, CODES-ISSS
-’13, <font color=red> **Best Paper Award (1 out of 111 submissions)** </font>, pages 1–10, 2013.
+’13, **<font color=red> Best Paper Award (1 out of 111 submissions) </font>**, pages 1–10, 2013.
 1. Chen Zhang, **Peng Li**, Guangyu Sun, Yijin Guan, Bingjun Xiao, and Jason Cong. Exploring
 fpga-based accelerator design for deep convolutional neural networks. In Proceedings of
-the ACM/SIGDA International Symposium on Field Programmable Gate Arrays, FPGA’15,
-<font color=red> **Nomination for Best Paper Award** </font>, pages 161–170, 2015.
+the ACM/SIGDA International Symposium on Field Programmable Gate Arrays, FPGA’15, **<font color=red> Nomination for Best Paper Award </font>**, pages 161–170, 2015.
 1. Fei Gao，Jingjie Zhu，Zeyuan Yu，**Peng Li**\* and Tao Wang. Making Robots Draw A Vivid Portrait In Two Minutes. In Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS'20, 2020.
 1. Young kyu Choi, Peng Zhang, **Peng Li**, and Jason Cong. Hlscope+: Fast and accurate
 performance estimation for fpga hls. In Proceedings of the International Conference on
