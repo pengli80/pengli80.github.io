@@ -38,8 +38,7 @@ stencil computation acceleration based on nonuniform partitioning of data reuse 
 Transaction on CAD of Integrated Circuits and Systems, 35:407–418, 2016.
 1. **Peng Li**, Peng Zhang, Pouchet Louis-Noel, and Jason Cong. Resource-aware throughtput optimization for high-level synthesis. In Proceedings of the ACM/SIGDA International Symposium
 on Field Programmable Gate Arrays, FPGA’15, pages 200–209, 2015.
-1. Shuangchen Li, Ang Li, Yuan Zhe, Yongpan Liu, **Peng Li**, Guangyu Sun, Yu Wang, Huazhong Yang, and Yuan Xie. Leveraging emerging nonvolatile memory in high-level synthesis with loop
-thransformations. In Proceedings of the International Symposium on Low Power Electronics
+1. Shuangchen Li, Ang Li, Yuan Zhe, Yongpan Liu, **Peng Li**, Guangyu Sun, Yu Wang, Huazhong Yang, and Yuan Xie. Leveraging emerging nonvolatile memory in high-level synthesis with loop thransformations. In Proceedings of the International Symposium on Low Power Electronics
 and Design, ISLPED’15, pages 61–66, 2015.
 1. Wentai Zhang, Li Shen, Thomas Page, Guojie Luo, **Peng Li**, Ming Jiang, Peter Maass,
 and Jason Cong. Fpga acceleration by asynchronous parallelization for simultaneous image
