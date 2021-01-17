@@ -1,6 +1,6 @@
-![avatar](Pengsketch.jpg)
+![avatar](pengli80.github.io/Pengstetch.jpg)
 
-## Researcher
+Researcher
 
 *Laboratory for Affective Intelligent Robotics  
 Advanced Institute of Information Technology  
