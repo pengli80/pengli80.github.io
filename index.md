@@ -32,7 +32,8 @@ on Field Programmable Gate Arrays, FPGA’15, pages 200–209, 2015.
 1. Chen Zhang, **Peng Li**, Guangyu Sun, Yijin Guan, Bingjun Xiao, and Jason Cong. Exploring
 fpga-based accelerator design for deep convolutional neural networks. In Proceedings of
 the ACM/SIGDA International Symposium on Field Programmable Gate Arrays, FPGA’15,
-Nomination for Best Paper Award, pages 161–170, 2015.[6] Shuangchen Li, Ang Li, Yuan Zhe, Yongpan Liu, **Peng Li**, Guangyu Sun, Yu Wang, Huazhong
+Nomination for Best Paper Award, pages 161–170, 2015.
+1. Shuangchen Li, Ang Li, Yuan Zhe, Yongpan Liu, **Peng Li**, Guangyu Sun, Yu Wang, Huazhong
 1. Yang, and Yuan Xie. Leveraging emerging nonvolatile memory in high-level synthesis with loop
 thransformations. In Proceedings of the International Symposium on Low Power Electronics
 and Design, ISLPED’15, pages 61–66, 2015.
@@ -112,7 +113,8 @@ traffic of token protocle using sharing relation cache. Tsinghua Science and Tec
 6:691–699, 2007.
 1. Haixia Wang, Dongsheng Wang, **Peng Li**, Jinglei Wang, and Xianping Fu. Exploit temporal
 locality of shared data in src enabled cmp. In Proceedings of the International Conference on
-Network and Parallel Computing, NPC’07, pages 384–393, 2007.[30] **Peng Li**, Dongsheng Wang, Haixia Wang, Meijuan Lu, and Weimin Zheng. Lirac: Using live
+Network and Parallel Computing, NPC’07, pages 384–393, 2007.
+1. **Peng Li**, Dongsheng Wang, Haixia Wang, Meijuan Lu, and Weimin Zheng. Lirac: Using live
 range information to optimize memory access. In Proceedings of the International Conference
 on Architecture of Computing Systems, ARCS ’07, pages 28–42, 2007.
 1. Haixia Wang, Dongsheng Wang, and **Peng Li**. Src-based cache coherence protocol in
