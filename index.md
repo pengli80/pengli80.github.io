@@ -19,7 +19,15 @@ Peking University*
 * 2008.01 - 2011.10 Senior Research Scientist, Communication Technology Lab, Intel Labs China
 
 ## Publications
-1. Fei Gao，Jingjie Zhu，Zeyuan Yu，**Peng Li** \* and Tao Wang. Making Robots Draw A Vivid Portrait In Two Minutes. In Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS'20, 2020.
+1. Wei Zuo, **Peng Li**, Deming Chen, Pouchet Louis-Noel, Shunan Zhong, and Jason Cong.
+Improving polyhedral code generation for high-level synthesis. In Proceedings of the Annual
+International Conference on Hardware/Software Codesign and System Synthesis, CODES-ISSS
+’13, <font color=red> **Best Paper Award (1 out of 111 submissions)** </font>, pages 1–10, 2013.
+1. Chen Zhang, **Peng Li**, Guangyu Sun, Yijin Guan, Bingjun Xiao, and Jason Cong. Exploring
+fpga-based accelerator design for deep convolutional neural networks. In Proceedings of
+the ACM/SIGDA International Symposium on Field Programmable Gate Arrays, FPGA’15,
+<font color=red> **Nomination for Best Paper Award** </font>, pages 161–170, 2015.
+1. Fei Gao，Jingjie Zhu，Zeyuan Yu，**Peng Li**\* and Tao Wang. Making Robots Draw A Vivid Portrait In Two Minutes. In Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS'20, 2020.
 1. Young kyu Choi, Peng Zhang, **Peng Li**, and Jason Cong. Hlscope+: Fast and accurate
 performance estimation for fpga hls. In Proceedings of the International Conference on
 Computer-Aided Design, ICCAD’17, pages 691–698, 2017.
@@ -30,10 +38,6 @@ stencil computation acceleration based on nonuniform partitioning of data reuse 
 Transaction on CAD of Integrated Circuits and Systems, 35:407–418, 2016.
 1. **Peng Li**, Peng Zhang, Pouchet Louis-Noel, and Jason Cong. Resource-aware throughtput optimization for high-level synthesis. In Proceedings of the ACM/SIGDA International Symposium
 on Field Programmable Gate Arrays, FPGA’15, pages 200–209, 2015.
-1. Chen Zhang, **Peng Li**, Guangyu Sun, Yijin Guan, Bingjun Xiao, and Jason Cong. Exploring
-fpga-based accelerator design for deep convolutional neural networks. In Proceedings of
-the ACM/SIGDA International Symposium on Field Programmable Gate Arrays, FPGA’15,
-Nomination for Best Paper Award, pages 161–170, 2015.
 1. Shuangchen Li, Ang Li, Yuan Zhe, Yongpan Liu, **Peng Li**, Guangyu Sun, Yu Wang, Huazhong
 1. Yang, and Yuan Xie. Leveraging emerging nonvolatile memory in high-level synthesis with loop
 thransformations. In Proceedings of the International Symposium on Low Power Electronics
@@ -61,10 +65,6 @@ International Symposium on Field Programmable Gate Arrays, FPGA’14, page 245, 
 1. **Peng Li**, Louis-Noel Pouchet, and Jason Cong. Throughput optimization for high-level
 synthesis using resource constraints. In 4th International Workshop on Polyhedral Compilation
 Techniques, IMPACT’14, 2014.
-1. Wei Zuo, **Peng Li**, Deming Chen, Pouchet Louis-Noel, Shunan Zhong, and Jason Cong.
-Improving polyhedral code generation for high-level synthesis. In Proceedings of the Annual
-International Conference on Hardware/Software Codesign and System Synthesis, CODES-ISSS
-’13, **Best Paper Award (1 out of 111 submissions)**, pages 1–10, 2013.
 1. Yuxin Wang, **Peng Li**, Peng Zhang, Chen Zhang, and Jason Cong. Memory partitioning
 for multidimensional arrays in high-level synthesis. In Proceedings of the 50th Annual Design
 Automation Conference, DAC ’13, pages 12:1–12:8, 2013.
