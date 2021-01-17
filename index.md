@@ -11,7 +11,7 @@ Peking University*
 * 1998 - 2002 BS, Computer Science, Harbin Institute of China
 
 ## Experiences
-* 2020.09 - Present, Co-founder and CEO, [Hangzhou Aisketcher Co. Ltd](http://www.miaohui.art)
+* 2020.09 - Present, Co-founder and CEO, [Hangzhou Aisketcher Co. Ltd](http://miaohui.art)
 * 2019.08 - Present, Researcher, Advanced Institute of Information Technology, Peking University
 * 2017.01 - 2019.07, Co-founder and CEO, Beijing Jouletek Co. Ltd
 * 2014.11 - 2016.12, Researcher, Department of Automotive Engineering, Tsinghua Univeristy
