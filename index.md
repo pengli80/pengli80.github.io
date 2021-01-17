@@ -1,5 +1,7 @@
 ## Peng Li
 
+![avatar](Pengsketch.jpg)
+
 Researcher
 
 *Laboratory for Affective Intelligent Robotics  
