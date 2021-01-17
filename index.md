@@ -19,7 +19,7 @@ Peking University*
 * 2008.01 - 2011.10 Senior Research Scientist, Communication Technology Lab, Intel Labs China
 
 ## Publications
-1. Young kyu Choi, Peng Zhang, Peng Li, and Jason Cong. Hlscope+: Fast and accurate
+1. Young kyu Choi, Peng Zhang, **Peng Li** , and Jason Cong. Hlscope+: Fast and accurate
 performance estimation for fpga hls. In Proceedings of the International Conference on
 Computer-Aided Design, ICCAD’17, pages 691–698, 2017.
 1. Guangyu Sun, Chao Zhang, Peng Li, Tao Wang, and Yiran Chen. Statistical cache bypassing
@@ -40,7 +40,7 @@ and Design, ISLPED’15, pages 61–66, 2015.
 and Jason Cong. Fpga acceleration by asynchronous parallelization for simultaneous image
 reconstruction and segmentation based on the mumford-shah regularization. In SPIE Optical
 Engineering + Applications, SPIE’15, 2015.
-[8] Chao Zhang, Guangyu Sun, Peng Li, Tao Wang, Dimin Niu, and Yiran Chen. A statistics
+1. Chao Zhang, Guangyu Sun, Peng Li, Tao Wang, Dimin Niu, and Yiran Chen. A statistics
 based cache bypassing method for asymmetric-access caches. In Proceedings of the International
 Symposium on Low Power Electronics and Design, ISLPED’14, pages 345–350, 2014.
 [9] Jason Cong, Peng Li, Bingjun Xiao, and Peng Zhang. An optimal microarchitecture for
