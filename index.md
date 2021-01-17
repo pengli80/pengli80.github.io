@@ -19,6 +19,7 @@ Peking University*
 * 2008.01 - 2011.10 Senior Research Scientist, Communication Technology Lab, Intel Labs China
 
 ## Publications
+1. Fei Gao，Jingjie Zhu，Zeyuan Yu，**Peng Li** \* and Tao Wang. Making Robots Draw A Vivid Portrait In Two Minutes. In Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS'20, 2020.
 1. Young kyu Choi, Peng Zhang, **Peng Li**, and Jason Cong. Hlscope+: Fast and accurate
 performance estimation for fpga hls. In Proceedings of the International Conference on
 Computer-Aided Design, ICCAD’17, pages 691–698, 2017.
