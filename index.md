@@ -1,8 +1,6 @@
-## Peng Li
-
 ![avatar](Pengsketch.jpg)
 
-Researcher
+## Researcher
 
 *Laboratory for Affective Intelligent Robotics  
 Advanced Institute of Information Technology  
