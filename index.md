@@ -19,7 +19,7 @@ Peking University*
 * 2011.11 - 2013.10, Postdoctoral Scholar, Center for Energy-Efficient Computing and Applications, Peking University
 * 2008.01 - 2011.10 Senior Research Scientist, Communication Technology Lab, Intel Labs China
 
-## Selected Publications ( [Full Publication List]{https://pengli80.github.io/publication} )
+## Selected Publications ( [Full Publication List](https://pengli80.github.io/publication) )
 1. Wei Zuo, **Peng Li**, Deming Chen, Pouchet Louis-Noel, Shunan Zhong, and Jason Cong.
 Improving Polyhedral Code Generation for High-Level Synthesis. In Proceedings of the Annual
 International Conference on Hardware/Software Codesign and System Synthesis, CODES-ISSS
