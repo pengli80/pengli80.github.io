@@ -21,28 +21,28 @@ Peking University*
 
 ## Publications
 1. Wei Zuo, **Peng Li**, Deming Chen, Pouchet Louis-Noel, Shunan Zhong, and Jason Cong.
-Improving polyhedral code generation for high-level synthesis. In Proceedings of the Annual
+Improving Polyhedral Code Generation for High-Level Synthesis. In Proceedings of the Annual
 International Conference on Hardware/Software Codesign and System Synthesis, CODES-ISSS
 ’13, **<font color=red> Best Paper Award (1 out of 111 submissions) </font>**, pages 1–10, 2013.
 1. Chen Zhang, **Peng Li**, Guangyu Sun, Yijin Guan, Bingjun Xiao, and Jason Cong. Exploring
-fpga-based accelerator design for deep convolutional neural networks. In Proceedings of
+FPGA-based Accelerator Design for Deep Convolutional Neural Networks. In Proceedings of
 the ACM/SIGDA International Symposium on Field Programmable Gate Arrays, FPGA’15, **<font color=red> Nomination for Best Paper Award </font>**, pages 161–170, 2015.
-1. Fei Gao，Jingjie Zhu，Zeyuan Yu，**Peng Li**\* and Tao Wang. Making Robots Draw A Vivid Portrait In Two Minutes. In Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS'20, 2020.
-1. Young kyu Choi, Peng Zhang, **Peng Li**, and Jason Cong. Hlscope+: Fast and accurate
-performance estimation for fpga hls. In Proceedings of the International Conference on
+1. Fei Gao，Jingjie Zhu，Zeyuan Yu，**Peng Li**\* and Tao Wang. Making Robots Draw A Vivid Portrait In Two Minutes. In Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS'20, pages 9585-9591, 2020.
+1. Young kyu Choi, Peng Zhang, **Peng Li**, and Jason Cong. Hlscope+: Fast and Accurate
+Performance Estimation for FPGA HLS. In Proceedings of the International Conference on
 Computer-Aided Design, ICCAD’17, pages 691–698, 2017.
-1. Guangyu Sun, Chao Zhang, **Peng Li**, Tao Wang, and Yiran Chen. Statistical cache bypassing
-for non-volatile memory. IEEE Transaction on Computers, 65:3427–3440, 2016.
-1. Jason Cong, **Peng Li**, Bingjun Xiao, and Peng Zhang. An optimal microarchitecture for
-stencil computation acceleration based on nonuniform partitioning of data reuse buffers. IEEE
+1. Guangyu Sun, Chao Zhang, **Peng Li**, Tao Wang, and Yiran Chen. Statistical Cache Bypassing
+for Non-Volatile Memory. IEEE Transaction on Computers, 65:3427–3440, 2016.
+1. Jason Cong, **Peng Li**, Bingjun Xiao, and Peng Zhang. An Optimal Microarchitecture for
+Stencil Computation Acceleration based on Nonuniform Partitioning of Data Reuse Buffers. IEEE
 Transaction on CAD of Integrated Circuits and Systems, 35:407–418, 2016.
-1. **Peng Li**, Peng Zhang, Pouchet Louis-Noel, and Jason Cong. Resource-aware throughtput optimization for high-level synthesis. In Proceedings of the ACM/SIGDA International Symposium
+1. **Peng Li**, Peng Zhang, Pouchet Louis-Noel, and Jason Cong. Resource-Aware Throughtput Optimization for High-Level Synthesis. In Proceedings of the ACM/SIGDA International Symposium
 on Field Programmable Gate Arrays, FPGA’15, pages 200–209, 2015.
-1. Shuangchen Li, Ang Li, Yuan Zhe, Yongpan Liu, **Peng Li**, Guangyu Sun, Yu Wang, Huazhong Yang, and Yuan Xie. Leveraging emerging nonvolatile memory in high-level synthesis with loop thransformations. In Proceedings of the International Symposium on Low Power Electronics
+1. Shuangchen Li, Ang Li, Yuan Zhe, Yongpan Liu, **Peng Li**, Guangyu Sun, Yu Wang, Huazhong Yang, and Yuan Xie. Leveraging Emerging Nonvolatile Memory in High-Level Synthesis with Loop Thransformations. In Proceedings of the International Symposium on Low Power Electronics
 and Design, ISLPED’15, pages 61–66, 2015.
 1. Wentai Zhang, Li Shen, Thomas Page, Guojie Luo, **Peng Li**, Ming Jiang, Peter Maass,
-and Jason Cong. Fpga acceleration by asynchronous parallelization for simultaneous image
-reconstruction and segmentation based on the mumford-shah regularization. In SPIE Optical
+and Jason Cong. FPGA Acceleration by Asynchronous Parallelization for Simultaneous Image
+Reconstruction and Segmentation based on the Mumford-Shah Regularization. In SPIE Optical
 Engineering + Applications, SPIE’15, 2015.
 1. Chao Zhang, Guangyu Sun, **Peng Li**, Tao Wang, Dimin Niu, and Yiran Chen. A statistics
 based cache bypassing method for asymmetric-access caches. In Proceedings of the International
