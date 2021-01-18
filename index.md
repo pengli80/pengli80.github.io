@@ -44,24 +44,24 @@ and Design, ISLPED’15, pages 61–66, 2015.
 and Jason Cong. FPGA Acceleration by Asynchronous Parallelization for Simultaneous Image
 Reconstruction and Segmentation based on the Mumford-Shah Regularization. In SPIE Optical
 Engineering + Applications, SPIE’15, 2015.
-1. Chao Zhang, Guangyu Sun, **Peng Li**, Tao Wang, Dimin Niu, and Yiran Chen. A statistics
-based cache bypassing method for asymmetric-access caches. In Proceedings of the International
+1. Chao Zhang, Guangyu Sun, **Peng Li**, Tao Wang, Dimin Niu, and Yiran Chen. A Statistics
+based Cache Bypassing Method for Asymmetric-access Caches. In Proceedings of the International
 Symposium on Low Power Electronics and Design, ISLPED’14, pages 345–350, 2014.
-1. Jason Cong, **Peng Li**, Bingjun Xiao, and Peng Zhang. An optimal microarchitecture for
-stencil computation acceleration based on non-uniform partitioning of data reuse buffers. In
+1. Jason Cong, **Peng Li**, Bingjun Xiao, and Peng Zhang. An Optimal Microarchitecture for
+Stencil Computation Acceleration based on Non-Uniform Partitioning of Data Reuse Buffers. In
 Proceedings of the 51th Annual Design Automation Conference, DAC’14, pages 407–418, 2014.
 1. **Peng Li**, Thomas Page, Guojie Luo, Wentai Zhang, Pei Wang, Peter Maass, Ming Jiang,
-and Jason Cong. Fpga acceleration for simultaneous medical image reconstruction and
-segmentation (poster). In The 22nd IEEE International Symposium on Field-Programmable
+and Jason Cong. FPGA Acceleration for Simultaneous Medical Image Reconstruction and
+Segmentation (Poster). In The 22nd IEEE International Symposium on Field-Programmable
 Custom Computing Machines, FCCM’14, 2014.
-1. Yuxin Wang, **Peng Li**, and Jason Cong. Theory and algorithm for generalized multidimensional
-memory partitioning in high-level synthesis. In Proceedings of the ACM/SIGDA International
+1. Yuxin Wang, **Peng Li**, and Jason Cong. Theory and Algorithm for Generalized Multidimensional
+Memory Partitioning in High-Level Synthesis. In Proceedings of the ACM/SIGDA International
 Symposium on Field Programmable Gate Arrays, FPGA’14, pages 199–208, 2014.
-1. **Peng Li**, Louis-Noel Pouchet, Deming Chen, and Jason Cong. Loop transformations for
-throughput optimization in high-level synthesis (poster). In Proceedings of the ACM/SIGDA
+1. **Peng Li**, Louis-Noel Pouchet, Deming Chen, and Jason Cong. Loop Transformations for
+Throughput Optimization in High-Level Synthesis (Poster). In Proceedings of the ACM/SIGDA
 International Symposium on Field Programmable Gate Arrays, FPGA’14, page 245, 2014.
-1. **Peng Li**, Louis-Noel Pouchet, and Jason Cong. Throughput optimization for high-level
-synthesis using resource constraints. In 4th International Workshop on Polyhedral Compilation
+1. **Peng Li**, Louis-Noel Pouchet, and Jason Cong. Throughput Optimization for High-Level
+Synthesis Using Resource Constraints. In 4th International Workshop on Polyhedral Compilation
 Techniques, IMPACT’14, 2014.
 1. Yuxin Wang, **Peng Li**, Peng Zhang, Chen Zhang, and Jason Cong. Memory partitioning
 for multidimensional arrays in high-level synthesis. In Proceedings of the 50th Annual Design
@@ -106,15 +106,15 @@ acceleration using systolic array based reconfigurable architecture (poster). In
 of the ACM/SIGDA International Symposium of Field Programmable Gate Arrays, FPGA’09,
 page 282, 2009.
 1. **Peng Li**, Dongsheng Wang, Haixia Wang, Meijuan Lu, Chongmin Li, and Weimin Zheng.
-Software support for lirac architecture. Tsinghua Science and Technology, 6:700–706, 2007.
-1. Haixia Wang, Dongsheng Wang, **Peng Li**, Jinglei Wang, and Chongmin Li. Reducing network
-traffic of token protocle using sharing relation cache. Tsinghua Science and Technology,
+Software Support for LIRAC Architecture. Tsinghua Science and Technology, 6:700–706, 2007.
+1. Haixia Wang, Dongsheng Wang, **Peng Li**, Jinglei Wang, and Chongmin Li. Reducing Network
+Traffic of Token Protocol using Sharing Relation Cache. Tsinghua Science and Technology,
 6:691–699, 2007.
-1. Haixia Wang, Dongsheng Wang, **Peng Li**, Jinglei Wang, and Xianping Fu. Exploit temporal
-locality of shared data in src enabled cmp. In Proceedings of the International Conference on
+1. Haixia Wang, Dongsheng Wang, **Peng Li**, Jinglei Wang, and Xianping Fu. Exploit Temporal
+Locality of Shared Data in SRC-enabled CMP. In Proceedings of the International Conference on
 Network and Parallel Computing, NPC’07, pages 384–393, 2007.
-1. **Peng Li**, Dongsheng Wang, Haixia Wang, Meijuan Lu, and Weimin Zheng. Lirac: Using live
-range information to optimize memory access. In Proceedings of the International Conference
+1. **Peng Li**, Dongsheng Wang, Haixia Wang, Meijuan Lu, and Weimin Zheng. LIRAC: Using Live
+Range Information to Optimize Memory Access. In Proceedings of the International Conference
 on Architecture of Computing Systems, ARCS ’07, pages 28–42, 2007.
 1. Haixia Wang, Dongsheng Wang, and **Peng Li**. SRC-based Cache Coherence Protocol in
 Chip Multiprocessor. In Japan-China Joint Workshop on Frontier of Computer Science and
