@@ -63,52 +63,52 @@ International Symposium on Field Programmable Gate Arrays, FPGA’14, page 245, 
 1. **Peng Li**, Louis-Noel Pouchet, and Jason Cong. Throughput Optimization for High-Level
 Synthesis Using Resource Constraints. In 4th International Workshop on Polyhedral Compilation
 Techniques, IMPACT’14, 2014.
-1. Yuxin Wang, **Peng Li**, Peng Zhang, Chen Zhang, and Jason Cong. Memory partitioning
-for multidimensional arrays in high-level synthesis. In Proceedings of the 50th Annual Design
+1. Yuxin Wang, **Peng Li**, Peng Zhang, Chen Zhang, and Jason Cong. Memory Partitioning
+for Multidimensional Arrays in High-Level Synthesis. In Proceedings of the 50th Annual Design
 Automation Conference, DAC ’13, pages 12:1–12:8, 2013.
-1. Cong Yan, **Peng Li**, and Guojie Luo. Customized physical design for partitioned on-chip
-memory module in fpga (work-in-progress workshop. In 50th Annual Design Automation
+1. Cong Yan, **Peng Li**, and Guojie Luo. Customized Physical Design for Partitioned On-Chip
+Memory Module in FPGA (work-in-progress workshop. In 50th Annual Design Automation
 Conference, DAC ’13.
-1. **Peng Li**, Angshuman Parashar, Michael Pellauer, Tao Wang, and Joel Emer. A hierarchical
-architectural framework for reconfigurable logic computing. In Proceedings of the 27th IEEE
+1. **Peng Li**, Angshuman Parashar, Michael Pellauer, Tao Wang, and Joel Emer. A Hierarchical
+Architectural Framework for Reconfigurable Logic Computing. In Proceedings of the 27th IEEE
 Parallel and Distributed Processing Symposium Workshops & PhD Forum, IPDPSW’13, pages
 287–292, 2013.
-1. Wei Zuo, Yun Liang, **Peng Li**, Kyle Rupnow, Deming Chen, and Jason Cong. Improving high
-level synthesis optimization opportunity through polyhedral transformations. In Proceedings
+1. Wei Zuo, Yun Liang, **Peng Li**, Kyle Rupnow, Deming Chen, and Jason Cong. Improving High
+Level Synthesis Optimization Opportunity through Polyhedral Transformations. In Proceedings
 of the ACM/SIGDA international symposium on Field programmable gate arrays, FPGA ’13,
 pages 9–18, New York, NY, USA, 2013. ACM.
-1. Yuxin Wang, **Peng Li**, Chen Zhang, and Jason Cong. Automatic multidimensional memory partitioning for fpga-based accelerators (poster). In Proceedings of the ACM/SIGDA
+1. Yuxin Wang, **Peng Li**, Chen Zhang, and Jason Cong. Automatic Multidimensional Memory Partitioning for FPGA-based Accelerators (poster). In Proceedings of the ACM/SIGDA
 International Symposium on Field Programmable Gate Arrays, FPGA’13, 2013.
 1. **Peng Li**, Yuxin Wang, Peng Zhang, Guojie Luo, Tao Wang, and Jason Cong. Memory
-partitioning and scheduling co-optimization in behavioral synthesis. In Proceedings of the
+Partitioning and Scheduling Co-Optimization in Behavioral Synthesis. In Proceedings of the
 International Conference on Computer-Aided Design, ICCAD ’12, pages 488–495, New York,
 NY, USA, 2012. ACM.
-1. Tao Wang, Zhihong Yu, **Peng Li**, Yuan Liu, Dong Liu, and Joel Emer. An architecture and
-mechanism for supporting speculative execution of a context-full reconfigurable function unit.
+1. Tao Wang, Zhihong Yu, **Peng Li**, Yuan Liu, Dong Liu, and Joel Emer. An Architecture and
+Mechanism for Supporting Speculative Execution of a Context-full Reconfigurable Function Unit.
 In Workshop on the Intersections of Computer Architecture and Reconfigurable Logic, CARL’10,
 2010.
 1. Sadagopan Srinivasan, Li Zhao, Lin Sun, Zhen Fang, **Peng Li**, Tao Wang, Ravishankar Iyer,
-and Dong Liu. Performance characterization and acceleration of optical character recognition
-on handheld platforms. In Proceedings of the IEEE International Symposium on Workload
+and Dong Liu. Performance Characterization and Acceleration of Optical Character Recognition
+on Handheld Platforms. In Proceedings of the IEEE International Symposium on Workload
 Characterization, IISWC ’10, pages 1–10, 2010.
 1. Ming Cong, Hong An, Lu Cao, Yuan Liu, **Peng Li**, Tao Wang, Zhihong Yu, and Dong Liu.
-Pattern-unit based regular expression matching with reconfigurable function unit. In Proceedings
+Pattern-unit based Regular Expression Matching with Reconfigurable Function Unit. In Proceedings
 of the International Conference on Computational Science and its Applications, ICCSA’10,
 pages 427–440, 2010.
 1. Tao Wang, **Peng Li**, Yuan Liu, Zhiyuan Zhang, Angshuman Parashar, Azam Barkatullah,
-Dong Liu, and Joel Emer. Using reconfigurable logic to replace fixed-function blocks in socs.
+Dong Liu, and Joel Emer. Using Reconfigurable Logic to Replace Fixed-function Blocks in SoCs.
 In Workshop on SoC Architecture, Accelerators and Workloads, SAW’10, 2010.
 1. Yanteng Sun, **Peng Li**, Guochang Gu, Yuan Wen, Yuan Liu, and Dong Liu. Accelerating
-HMM search on fpgas using systolic array based architecture. In IEEE International Workshop
+HMM Search on FPGAs Using Systolic Array based Architecture. In IEEE International Workshop
 on High Performance Computational Biology, HiComb’09, pages 1–8, 2009.
-1. Yanteng Sun, **Peng Li**, Guochang Gu, Yuan Wen, Yuan Liu, and Dong Liu. Hmmer
-acceleration using systolic array based reconfigurable architecture (poster). In Proceedings
+1. Yanteng Sun, **Peng Li**, Guochang Gu, Yuan Wen, Yuan Liu, and Dong Liu. HMMer
+Acceleration Using Systolic Array based Reconfigurable Architecture (Poster). In Proceedings
 of the ACM/SIGDA International Symposium of Field Programmable Gate Arrays, FPGA’09,
 page 282, 2009.
 1. **Peng Li**, Dongsheng Wang, Haixia Wang, Meijuan Lu, Chongmin Li, and Weimin Zheng.
 Software Support for LIRAC Architecture. Tsinghua Science and Technology, 6:700–706, 2007.
 1. Haixia Wang, Dongsheng Wang, **Peng Li**, Jinglei Wang, and Chongmin Li. Reducing Network
-Traffic of Token Protocol using Sharing Relation Cache. Tsinghua Science and Technology,
+Traffic of Token Protocol Using Sharing Relation Cache. Tsinghua Science and Technology,
 6:691–699, 2007.
 1. Haixia Wang, Dongsheng Wang, **Peng Li**, Jinglei Wang, and Xianping Fu. Exploit Temporal
 Locality of Shared Data in SRC-enabled CMP. In Proceedings of the International Conference on
