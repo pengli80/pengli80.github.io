@@ -116,15 +116,15 @@ Network and Parallel Computing, NPC’07, pages 384–393, 2007.
 1. **Peng Li**, Dongsheng Wang, Haixia Wang, Meijuan Lu, and Weimin Zheng. Lirac: Using live
 range information to optimize memory access. In Proceedings of the International Conference
 on Architecture of Computing Systems, ARCS ’07, pages 28–42, 2007.
-1. Haixia Wang, Dongsheng Wang, and **Peng Li**. Src-based cache coherence protocol in
-chip multiprocessor. In Japan-China Joint Workshop on Frontier of Computer Science and
+1. Haixia Wang, Dongsheng Wang, and **Peng Li**. SRC-based Cache Coherence Protocol in
+Chip Multiprocessor. In Japan-China Joint Workshop on Frontier of Computer Science and
 Technology, FCST’06, pages 60–70, 2006.
-1. **Peng Li**, Dongsheng Wang, Songliu Guo, Tao Tian, and Weimin Zheng. Live range aware cache
-architecture. In Proceedings of the Asia-Pacific Computer Systems Architecture Conference,
+1. **Peng Li**, Dongsheng Wang, Songliu Guo, Tao Tian, and Weimin Zheng. Live Range Aware Cache
+Architecture. In Proceedings of the Asia-Pacific Computer Systems Architecture Conference,
 ACSAC ’06, pages 409–415, 2006.
-1. Dongsheng Wang Haixia Wang and **Peng Li**. Acceleration techniques for chip-multiprocessor
-simulator debug. In Proceedings of the Asia-Pacific Computer Systems Architecture Conference,
+1. Dongsheng Wang Haixia Wang and **Peng Li**. Acceleration Techniques for Chip-Multiprocessor
+Simulator Debug. In Proceedings of the Asia-Pacific Computer Systems Architecture Conference,
 ACSAC ’06, pages 509–515, 2006.
-1. Youhui Zhang, **Peng Li**, Dongsheng Wang, and Weimin Zheng. Seamless peripherals integration
-for network computers based on the reversed server message block protocol. In Proceedings of
+1. Youhui Zhang, **Peng Li**, Dongsheng Wang, and Weimin Zheng. Seamless Peripherals Integration
+for Network Computers based on the Reversed Server Message Block Protocol. In Proceedings of
 the International Conference on Networking and Services, ICNS’06, pages 112:1–112:6, 2006
