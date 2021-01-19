@@ -14,10 +14,6 @@ projects:
 
 
 
-## Education
-* 2002 - 2008 PhD, Computer Science, Tsinghua University
-* 1998 - 2002 BS, Computer Science, Harbin Institute of China
-
 ## Experiences
 * 2020.09 - Present, Co-founder and CEO, [Hangzhou Aisketcher Co. Ltd](http://miaohui.art)
 * 2019.08 - Present, Researcher, Advanced Institute of Information Technology, Peking University
@@ -26,6 +22,10 @@ projects:
 * 2013.11 - 2014.10, Research Fellow, Vast Laboratory, Computer Science Department, University of California at Los Angeles
 * 2011.11 - 2013.10, Postdoctoral Scholar, Center for Energy-Efficient Computing and Applications, Peking University
 * 2008.01 - 2011.10 Senior Research Scientist, Communication Technology Lab, Intel Labs China
+
+## Education
+* 2002 - 2008 PhD, Computer Science, Tsinghua University
+* 1998 - 2002 BS, Computer Science, Harbin Institute of China
 
 ## Selected Publications ( [Full List](https://pengli80.github.io/publication) )
 1. Wei Zuo, **Peng Li**, Deming Chen, Pouchet Louis-Noel, Shunan Zhong, and Jason Cong.
