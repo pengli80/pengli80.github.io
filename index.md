@@ -6,6 +6,14 @@ Researcher
 Advanced Institute of Information Technology  
 Peking University*
 
+I am a researcher in the Laboratory for Affective Intelligent Robotics at Advanced Institute of Information Technology，Peking University. 
+Currently, I am leading two research 
+projects
+* [RoboGo](http://www.openrobot.net): Quadruped Robot
+* [AiSketcher](http://www.aisketcher.com): AI Drawing Robot 
+
+
+
 ## Education
 * 2002 - 2008 PhD, Computer Science, Tsinghua University
 * 1998 - 2002 BS, Computer Science, Harbin Institute of China
