@@ -8,9 +8,9 @@ Peking University*
 
 I am a researcher in the Laboratory for Affective Intelligent Robotics at Advanced Institute of Information Technology，Peking University. 
 Currently, I am leading two research 
-projects
-* [RoboGo](http://www.openrobot.net): Quadruped Robot
-* [AiSketcher](http://www.aisketcher.com): AI Drawing Robot 
+projects:
+* [RoboGo](http://www.openrobot.net): Quadruped Robot.
+* [AiSketcher](http://www.aisketcher.com)(togother with [Pr. Gao Fei](http://aiart.live)): AI Drawing Robot. 
 
 
 
