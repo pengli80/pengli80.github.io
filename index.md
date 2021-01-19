@@ -40,9 +40,9 @@ the ACM/SIGDA International Symposium on Field Programmable Gate Arrays, FPGA’
 for Non-Volatile Memory. IEEE Transaction on Computers, 65:3427–3440, 2016.
 1. **Peng Li**, Peng Zhang, Pouchet Louis-Noel, and Jason Cong. Resource-Aware Throughtput Optimization for High-Level Synthesis. In Proceedings of the ACM/SIGDA International Symposium
 on Field Programmable Gate Arrays, FPGA’15, pages 200–209, 2015.
-1. Yuxin Wang, **Peng Li**, and Jason Cong. Theory and Algorithm for Generalized Multidimensional
-Memory Partitioning in High-Level Synthesis. In Proceedings of the ACM/SIGDA International
-Symposium on Field Programmable Gate Arrays, FPGA’14, pages 199–208, 2014.
+1. Jason Cong, **Peng Li**, Bingjun Xiao, and Peng Zhang. An Optimal Microarchitecture for
+Stencil Computation Acceleration based on Non-Uniform Partitioning of Data Reuse Buffers. In
+Proceedings of the 51th Annual Design Automation Conference, DAC’14, pages 407–418, 2014.
 1. **Peng Li**, Yuxin Wang, Peng Zhang, Guojie Luo, Tao Wang, and Jason Cong. Memory
 Partitioning and Scheduling Co-Optimization in Behavioral Synthesis. In Proceedings of the
 International Conference on Computer-Aided Design, ICCAD ’12, pages 488–495, New York,
