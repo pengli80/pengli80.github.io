@@ -21,7 +21,7 @@ projects:
 * 2014.11 - 2016.12, Researcher, Department of Automotive Engineering, Tsinghua Univeristy
 * 2013.11 - 2014.10, Research Fellow, Vast Laboratory, Computer Science Department, University of California at Los Angeles
 * 2011.11 - 2013.10, Postdoctoral Scholar, Center for Energy-Efficient Computing and Applications, Peking University
-* 2008.01 - 2011.10 Senior Research Scientist, Communication Technology Lab, Intel Labs China
+* 2008.01 - 2011.10, Senior Research Scientist, Communication Technology Lab, Intel Labs China
 
 ## Education
 * 2002 - 2008 PhD, Computer Science, Tsinghua University
