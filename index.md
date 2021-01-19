@@ -10,7 +10,7 @@ I am a researcher in the Laboratory for Affective Intelligent Robotics at Advanc
 Currently, I am leading two research 
 projects:
 * [RoboGo](http://www.openrobot.net): Quadruped Robot.
-* [AiSketcher](http://www.aisketcher.com)(togother with [Pr. Gao Fei](http://aiart.live)): AI Drawing Robot. 
+* [AiSketcher](http://www.aisketcher.com) (with [Pr. Gao Fei](http://aiart.live)): AI Drawing Robot. 
 
 
 
