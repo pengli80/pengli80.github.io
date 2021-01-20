@@ -9,16 +9,16 @@ Peking University*
 I am a researcher in the Laboratory for Affective Intelligent Robotics at Advanced Institute of Information Technology，Peking University. 
 Currently, I am leading two research 
 projects:
-* [RoboGo](http://www.openrobot.net/dog): Quadruped Robot.
 * [AiSketcher](http://www.aisketcher.com) (with [Pr. Fei Gao](http://aiart.live)): AI Drawing Robot. 
+* [RoboGo](http://www.openrobot.net/dog): Quadruped Robot.
 
-
+I am interested in transferring high-technology to real world through start-up companies.
 
 ## Experiences
 * 2020.09 - Present, Co-founder and CEO, [Hangzhou Aisketcher Co. Ltd](http://miaohui.art)
 * 2019.08 - Present, Researcher, Advanced Institute of Information Technology, Peking University
-* 2017.01 - 2019.07, Co-founder and CEO, Beijing Jouletek Co. Ltd
-* 2014.11 - 2016.12, Researcher, Department of Automotive Engineering, Tsinghua Univeristy
+* 2017.01 - 2019.07, Co-founder and CEO, [Beijing Jouletek Co. Ltd](http://jouletek.com)
+* 2014.11 - 2016.12, Director, Intelligent Electronics Division， Suzhou Zijing Qingyuan New Energy Vehicle Technology Co. Ltd
 * 2013.11 - 2014.10, Research Fellow, Vast Laboratory, Computer Science Department, University of California at Los Angeles
 * 2011.11 - 2013.10, Postdoctoral Scholar, Center for Energy-Efficient Computing and Applications, Peking University
 * 2008.01 - 2011.10, Senior Research Scientist, Communication Technology Lab, Intel Labs China
