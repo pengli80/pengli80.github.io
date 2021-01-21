@@ -7,12 +7,11 @@ Advanced Institute of Information Technology
 Peking University*
 
 I am a researcher in the Laboratory for Affective Intelligent Robotics at Advanced Institute of Information Technology，Peking University. 
-Currently, I am leading two research 
-projects:
+My interests include high technology and its application in real world.
+Currently, I am leading two projects:
 * [AiSketcher](http://www.aisketcher.com) (with [Pr. Fei Gao](http://aiart.live)): AI Drawing Robot. 
 * [RoboGo](http://www.openrobot.net/dog): Quadruped Robot.
 
-I am interested in transferring high-technology to real world through start-up companies.
 
 ## Experiences
 * 2020.09 - Present, Co-founder and CEO, [Hangzhou Aisketcher Co. Ltd](http://miaohui.art)
