@@ -9,7 +9,7 @@ Peking University*
 I am a researcher in the Laboratory for Affective Intelligent Robotics at Advanced Institute of Information Technology，Peking University. 
 My interests include high technology and its application in real world.
 Currently, I am leading two projects:
-* [AiSketcher](http://www.aisketcher.com) (with [Pr. Fei Gao](http://aiart.live)): AI Drawing Robot. 
+* [AiSketcher](http://www.aisketcher.com) (with [Prof. Fei Gao](http://aiart.live)): AI Drawing Robot. 
 * [RoboGo](http://www.openrobot.net/dog): Quadruped Robot.
 
 
@@ -34,6 +34,8 @@ International Conference on Hardware/Software Codesign and System Synthesis, COD
 1. Chen Zhang, **Peng Li**, Guangyu Sun, Yijin Guan, Bingjun Xiao, and Jason Cong. Exploring
 FPGA-based Accelerator Design for Deep Convolutional Neural Networks. In Proceedings of
 the ACM/SIGDA International Symposium on Field Programmable Gate Arrays, FPGA’15, **<font color=red> Nomination for Best Paper Award </font>**, pages 161–170, 2015.
+1. Huiqiao Fu, Kaiqiang Tang, **Peng Li**, Wenqi Zhang, Xinpeng Wang, Guizhou Deng, Tao Wang, Chunlin Chen, Deep Reinforcement Learning for Multi-contact Motion Planning of
+Hexapod Robots. Accepted by the 30th International Joint Conference on Artificial Intelligence (IJCAI-21).
 1. Fei Gao，Jingjie Zhu，Zeyuan Yu，**Peng Li**\* and Tao Wang. Making Robots Draw A Vivid Portrait In Two Minutes. In Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS'20, pages 9585-9591, 2020.
 1. Guangyu Sun, Chao Zhang, **Peng Li**, Tao Wang, and Yiran Chen. Statistical Cache Bypassing
 for Non-Volatile Memory. IEEE Transaction on Computers, 65:3427–3440, 2016.
