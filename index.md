@@ -34,7 +34,7 @@ International Conference on Hardware/Software Codesign and System Synthesis, COD
 1. Chen Zhang, **Peng Li**, Guangyu Sun, Yijin Guan, Bingjun Xiao, and Jason Cong. Exploring
 FPGA-based Accelerator Design for Deep Convolutional Neural Networks. In Proceedings of
 the ACM/SIGDA International Symposium on Field Programmable Gate Arrays, FPGA’15, **<font color=red> Nomination for Best Paper Award </font>**, pages 161–170, 2015.
-1. Fei Gao, Jingjie Zhu, Weiyu Weng, Chenyang Jiang, Xiang Li, Xiao Zhu, Lingna Dai, **Peng Li**. High-quality Face Sketch Synthesis via Geometric Normalization and Regularization. Accepted by the IEEE International Conference on Multimedia and Expo (ICME) 2021, Demo Track, **<font color=red> best demo runner up award </font>** ,ICME'21.
+1. Fei Gao, Jingjie Zhu, Weiyu Weng, Chenyang Jiang, Xiang Li, Xiao Zhu, Lingna Dai, **Peng Li**. High-quality Face Sketch Synthesis via Geometric Normalization and Regularization. Accepted by the IEEE International Conference on Multimedia and Expo (ICME) 2021, Demo Track, **<font color=red> Best Demo Runner up Award </font>** ,ICME'21.
 1. Wenqi Zhang, Kai Zhao, **Peng Li**\*, Xiao Zhu, Faping Ye, Weijie Jiang, Huiqiao Fu, Tao Wang. Learning to Navigate in a VUCA Environment: Hierarchical Multi-expert Approach. Accepted by the IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS'21.
 1. Huiqiao Fu, Kaiqiang Tang, **Peng Li**, Wenqi Zhang, Xinpeng Wang, Guizhou Deng, Tao Wang, Chunlin Chen. Deep Reinforcement Learning for Multi-contact Motion Planning of
 Hexapod Robots. Accepted by the 30th International Joint Conference on Artificial Intelligence (IJCAI-21).
