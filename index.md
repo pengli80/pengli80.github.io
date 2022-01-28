@@ -13,8 +13,9 @@ Currently, I am leading two projects:
 --->
 
 ## Experiences
+* 2021.07 - Present, Associate Researcher, [Institute of Software, Chinese Academy of Sciences](http://www.iscas.ac.cn)
 * 2020.09 - Present, Co-founder and CEO, [Hangzhou Aisketcher Co. Ltd](http://miaohui.art)
-* 2019.08 - Present, Researcher, Advanced Institute of Information Technology, Peking University
+* 2019.08 - 2021.07, Researcher, Advanced Institute of Information Technology, Peking University
 * 2017.01 - 2019.07, Co-founder and CEO, [Beijing Jouletek Co. Ltd](http://jouletek.com)
 * 2014.11 - 2016.12, Director, Intelligent Electronics Division， Suzhou Zijing Qingyuan New Energy Vehicle Technology Co. Ltd
 * 2013.11 - 2014.10, Research Fellow, Vast Laboratory, Computer Science Department, University of California at Los Angeles
